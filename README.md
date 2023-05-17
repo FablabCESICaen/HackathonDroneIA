@@ -3,7 +3,7 @@
 ### C'est quoi un Hackathon ? 
 
 Un Hackathon (de "hack" ("bidouille"), et "marathon") est un évènement où une ou plusieurs équipes se lancent un défi à réaliser en un temps court (généralement un week-end), par exemple de créer une application, de fabriquer un appareil,...
-Un Hackathon met l'accent sur l'aspect pratique (réaliser quelque chose) plutôt que sur la réflexion. 
+Un Hackathon met l'accent sur l'aspect pratique (réaliser quelque chose) plutôt que sur la réflexion théorique. 
 
 ### Quel est le sujet du Hackathon du 10-11 Juin ? (On va y faire quoi ?)
 
